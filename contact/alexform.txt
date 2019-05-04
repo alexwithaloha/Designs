@@ -1,0 +1,5 @@
+[special_fields] 
+required = "FullName,EmailAddress,Phone" 
+
+[email_addresses] 
+tami = "alexshortsleeve@yahoo.com"
